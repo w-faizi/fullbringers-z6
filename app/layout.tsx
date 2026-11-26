@@ -4,7 +4,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'T&C Guardian — Know what you’re agreeing to',
-  description: 'Scan Terms & Conditions for hidden costs, privacy risks, deadlines, and the actions you can take.',
+  description: 'Understand Terms & Conditions, hidden costs, privacy risks, and deadlines in English, Hindi, Bengali, Marathi, Tamil, Telugu, Kannada, Gujarati, and Punjabi.',
   applicationName: 'T&C Guardian',
   icons: { icon: '/icon.svg', shortcut: '/icon.svg' },
 }
